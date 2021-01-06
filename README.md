@@ -9,7 +9,7 @@ Deve ser desenvolvida uma API RESTful que nos permite gerenciar as informações
 
 
 # Tecnologias a utilizar
-A API deve ser desenvolvida em Java e base de dados para guardar as informações dos países depende do candidato.
+A API deve ser desenvolvida em Java e a base de dados para guardar as informações dos países deve ser relacional a escolha do candidato.
 
 
 # Como entregar
